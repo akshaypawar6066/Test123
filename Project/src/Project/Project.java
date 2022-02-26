@@ -6,5 +6,7 @@ public class Project
    {
 	  System.out.println("HEllo");
 	   System.out.println("Velocity123");
+	     System.out.println("HEllo");
+	   System.out.println("Velocity123");
    }
 }
